@@ -211,16 +211,16 @@ Authorization: Bearer <token>
 
 ## Features
 
--  JWT-based authentication
--  Role-based authorization (ADMIN, EMPLOYEE)
--  Password hashing with bcrypt
--  Input validation with DTOs
--  Pagination for customer list
--  Customer search filter
--  Comprehensive error handling
--  Swagger API documentation
--  Clean architecture (controllers, services, DTOs)
--  TypeScript for type safety
+- JWT-based authentication
+- Role-based authorization (ADMIN, EMPLOYEE)
+- Password hashing with bcrypt
+- Input validation with DTOs
+- Pagination for customer list
+- Customer search filter
+- Comprehensive error handling
+- Swagger API documentation
+- Clean architecture (controllers, services, DTOs)
+- TypeScript for type safety
 
 ## Error Handling
 
@@ -256,14 +256,9 @@ The API returns consistent error responses:
 
 ## Contributing
 
-This is an assignment project for Prysm Labs Backend Developer Intern position.
+This is a backend project showcasing Node.js, Express, PostgreSQL, and Prisma implementation with JWT authentication and role-based authorization.
 
 ## Contact
 
 **Author**: Abdullah Shah  
-**Email**: Assignment_Backend@prysmlabs.in  
 **GitHub**: https://github.com/Abdullah-Shah-26/Mini-CRM-Backend
-
-## License
-
-MIT
